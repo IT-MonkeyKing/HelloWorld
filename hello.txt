@@ -1,4 +1,2 @@
 this is a test!
 just a test!
-在第二个分支改动的内容！
-糟糕，这是不识别中文么？
